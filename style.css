@@ -1,0 +1,54 @@
+.card {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10%;
+    box-shadow: black 5px 5px 15px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+
+  }
+  
+  .button:hover {
+    background-color: orange;
+  }
+  
+  .center {
+    text-align: center;
+  }
+
+  .gato {
+    display: block;
+    margin: 0 auto;
+    width:50%; 
+    height:50%;
+    margin-top: 1%;
+  }
+
+
+  #cerrarSesion {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 90%;
+    margin-top: 2%;
+  }
+  
+  #cerrarSesion:hover {
+    background-color: #c82333;
+  }
+
